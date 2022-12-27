@@ -11,11 +11,11 @@ I'm a second year phd student at the University of Manchester, supervised by And
 
 Recent Work
 ======
-1. [Learning disentangled semantic space of explanations via invertible neural network](https://github.com/academicpages/academicpages.github.io). This work explores the controllable AutoEncoder via flow-based invertible neural network. 
+1. [Learning disentangled semantic space of explanations via invertible neural network](https://github.com/academicpages/academicpages.github.io). This work explores the controllable generation of AutoEncoder via flow-based invertible neural network. 
 
-2. [Toward controllable natural language inference through lexical inference type](https://github.com/academicpages/academicpages.github.io). This work foscused on the inference task - generating a conclusion given two premsies. Based on the fine-grained inference type, the baseline model (T5) can learn the better inference process and it can be controlled through inference type. 
+2. [Toward controllable natural language inference through lexical inference type](https://github.com/academicpages/academicpages.github.io). This work foscused on the inference task - generating a conclusion given two premsies. Based on the fine-grained inference type, the baseline model (T5) can learn the better inference process and can be controlled to deliver a symbolic inference behavior. 
 
-3. [Qausi-symbolic explanatory inference via disentanglement: a geometrical eximination](https://github.com/academicpages/academicpages.github.io). This work revealed that the geometric properties of explanatory latent space of Variational AutoEncoder (VAE). 
+3. [Qausi-symbolic explanatory inference via disentanglement: a geometrical eximination](https://github.com/academicpages/academicpages.github.io). This work revealed the geometric properties of explanatory latent space of Variational AutoEncoder (VAE). This geometric property can help us to control the generation of VAE by traversing the movement of latent vector over different hypersolids in the latent space.
 
 4. [learning disentangled representation for natural language definition](https://github.com/academicpages/academicpages.github.io).
 

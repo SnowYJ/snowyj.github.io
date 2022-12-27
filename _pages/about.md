@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year phd student at the University of Manchester, supervised by Andre Freitas and Ian Prat-hartman.
+I'm a second year phd student at the University of Manchester, supervised by Andre Freitas and Ian Prat-hartman. Before this, I received my Msc from University of Sheffield and BEng from Harbin University of Science and Technology. My research interests are about Natural Language Processing, especially, natural language inference and controllable natural language generation. 
 
 <!-- A data-driven personal website
 ======

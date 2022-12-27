@@ -16,8 +16,8 @@ Recent Work
 2. [Toward controllable natural language inference through lexical inference type](https://github.com/academicpages/academicpages.github.io). This work foscused on the inference task - generating a conclusion given two premsies. Based on the fine-grained inference type, the baseline model (T5) can learn the better inference process and can be controlled to deliver a symbolic inference behavior. 
 
 3. [Qausi-symbolic explanatory inference via disentanglement: a geometrical eximination](https://github.com/academicpages/academicpages.github.io). This work revealed the geometric properties of explanatory latent space of Variational AutoEncoder (VAE). This geometric property can help us to control the generation of VAE by traversing the movement of latent vector over different hypersolids in the latent space.
-<!-- 
-4. [learning disentangled representation for natural language definition](https://github.com/academicpages/academicpages.github.io). -->
+
+4. [learning disentangled representation for natural language definition](https://github.com/academicpages/academicpages.github.io).
 
 <!-- A data-driven personal website
 ======

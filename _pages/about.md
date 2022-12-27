@@ -9,6 +9,16 @@ redirect_from:
 
 I'm a second year phd student at the University of Manchester, supervised by Andre Freitas and Ian Prat-hartman. Before this, I received my Msc from University of Sheffield and BEng from Harbin University of Science and Technology. My research interests include natural language inference, controllable natural language generation, and disentangled representation learning. 
 
+Recent Work
+======
+1. [Learning disentangled semantic space of explanations via invertible neural network](https://github.com/academicpages/academicpages.github.io)
+
+2. [Toward controllable natural language inference through lexical inference type](https://github.com/academicpages/academicpages.github.io)
+
+3. [Qausi-symbolic explanatory inference via disentanglement: a geometrical eximination](https://github.com/academicpages/academicpages.github.io)
+
+4. [learning disentangled representation for natural language definition](https://github.com/academicpages/academicpages.github.io)
+
 <!-- A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.

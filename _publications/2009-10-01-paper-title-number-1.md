@@ -3,7 +3,7 @@ title: "The University of Sheffield at CheckThat! 2020: Claim Identification and
 collection: Conference paper
 permalink: ''
 excerpt: ''
-date: 2020-01-01
+date: 2020
 venue: 'Conference and Labs of the Evaluation Forum (CLEF) 2020'
 paperurl: 'https://ceur-ws.org/Vol-2696/paper_162.pdf'
 ---

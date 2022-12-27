@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "The University of Sheffield at CheckThat! 2020: Claim Identification and Verification on Twitter"
 collection: Conference paper
 permalink: ''
@@ -12,3 +12,4 @@ paperurl: 'https://ceur-ws.org/Vol-2696/paper_162.pdf'
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
 Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+ -->

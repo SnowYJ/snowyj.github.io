@@ -1,5 +1,5 @@
 ---
 title: "ExplAIn Lab Research Day"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+excerpt: "<br/><img src='/images/research_day.png'>"
+<!-- collection: portfolio -->
 ---
